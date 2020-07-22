@@ -1,3 +1,5 @@
+![](https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif)
+
 ### Hi there 👋 I'm Stefan Karasmilov. Mobile app Developer with Flutter and native develop on Android. I have experience with Java and Dart programming languages. And I'm glad you're watching my GitHub profile :blush:. 
 
 
