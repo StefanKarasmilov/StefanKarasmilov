@@ -2,9 +2,9 @@
 
 
 - 🔭 I’m currently working as Freelance with Flutter.
-- :tv: My YouTube chanel is **[Videos](https://www.youtube.com/channel/UCfUl0PLKTBq2sGIOG_x0SUw?view_as=subscriber)**
+- :tv: My YouTube chanel is **[YouTube](https://www.youtube.com/channel/UCfUl0PLKTBq2sGIOG_x0SUw?view_as=subscriber)**
 - 🌱 I’m currently learning Angular.
 - 👯 I’m looking to collaborate on apps projects.
 - 💬 Ask me about native Android and Java development
-- 📫 How to reach me: https://www.facebook.com/stefan.karasmilov/
+- 📫 How to reach me: **[Facebook]( https://www.facebook.com/stefan.karasmilov/)**
 - ⚡ Fun fact: "You know you're a programmer when your code works and you have no idea why". 
