@@ -1,4 +1,4 @@
-![](https://media.giphy.com/media/Rkis28kMJd1aE/giphy.gif)
+![](https://images4.alphacoders.com/587/thumb-1920-587777.png)
 
 ### Hi there 👋 I'm Stefan Karasmilov. Mobile app Developer with Flutter and native develop on Android. I have experience with Java and Dart programming languages. And I'm glad you're watching my GitHub profile :blush:. 
 
