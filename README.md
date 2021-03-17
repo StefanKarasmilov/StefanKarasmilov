@@ -3,7 +3,7 @@
 ### Hi there 👋 I'm Stefan Karasmilov. Mobile app Developer with Flutter and native develop on Android. I have experience with Java, Kotlin and Dart programming languages. And I'm glad you're watching my GitHub profile :blush:. 
 
 
-- 🔭 I’m currently working as Native Android Developer.
+- 🔭 I’m currently working as native Android Developer and Flutter Developer.
 - :tv: My YouTube chanel is **[YouTube](https://www.youtube.com/channel/UCfUl0PLKTBq2sGIOG_x0SUw?view_as=subscriber)**
 - 🌱 I’m currently learning Spring boot backend.
 - 👯 I’m looking to expand my knowledge.
