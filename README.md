@@ -8,5 +8,5 @@
 - 🌱 I’m currently learning React Native.
 - 👯 I’m looking to expand my knowledge.
 - 💬 Ask me about native Android, Flutter and Java development
-- 📫 How to reach me: **[Facebook]( https://www.facebook.com/stefan.karasmilov/)**
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/stefan-karasmilov/)** **[Facebook](https://www.facebook.com/stefan.karasmilov/)** 
 - ⚡ Fun fact: "You know you're a programmer when your code works and you have no idea why". 
